@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class ATMdemo {
      static double balance = 10000;
